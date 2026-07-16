@@ -1,0 +1,11 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page38598917.html
+
+RewriteEngine On
+
+RewriteRule ^team$ page38660156.html [NC]
+RewriteRule ^team/$ page38660156.html [NC]
+
+
